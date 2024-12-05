@@ -13,7 +13,7 @@ The Job Analysis Project involves analyzing job data from a JSON file, implement
 
 ![Data Loading](Examples/loaddata.png)
 
-3. **Job Class Definition**: Define a `Job` class to encapsulate the details of each job entry, such as title, posted time, type, level, skill, and detail. Use JavaScript to create methods for retrieving and formatting job details.
+3. **Job Class Definition**: Define a `Job` class to encapsulate the details of each job entry, such as title, posted time, type, level, skill, and detail. Use JavaScript to create methods for retrieving and formatting job details. 
 
 4. **Filtering Functionality**: Implement filtering functionality that allows users to filter jobs based on criteria such as job `Level`, `Type`, and `Skill`. The filtering options should be generated based on the available data. As users select different filters, the job listing will be updated to reflect only those jobs that match the selected criteria.
 
